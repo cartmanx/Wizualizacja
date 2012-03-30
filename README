@@ -1,0 +1,1 @@
+Project is the graphical visualization how Wi-fi technology functions in flat. Program is a supplement of the Home Wireless Network project. It shows power changes of signal depending on location of broadcast and receiving devices. Implementation was simplified, factors such as wave reflection or how high are placed devices, are not taken in calculations.
